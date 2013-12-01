@@ -1,5 +1,4 @@
 C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.BLL\bin\Debug\Babny.BLL.dll
 C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.BLL\bin\Debug\Babny.BLL.pdb
-C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.BLL\obj\Debug\Babny.BLL.csprojResolveAssemblyReference.cache
 C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.BLL\obj\Debug\Babny.BLL.dll
 C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.BLL\obj\Debug\Babny.BLL.pdb
