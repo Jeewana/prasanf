@@ -1,0 +1,5 @@
+C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.Data\bin\Debug\Babny.Data.dll
+C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.Data\bin\Debug\Babny.Data.pdb
+C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.Data\obj\Debug\Babny.Data.csprojResolveAssemblyReference.cache
+C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.Data\obj\Debug\Babny.Data.dll
+C:\Users\Prasantha\Documents\GitHub\prasanf\BabnySrc\Babny.Data\obj\Debug\Babny.Data.pdb
